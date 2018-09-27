@@ -1,3 +1,8 @@
 Initial Commit 9/26/18
 	-Project Creation
 	
+Inital Player Mech 9/27/18
+	-Player movement
+	-Player jump
+	-Player on ground detection
+	
