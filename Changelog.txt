@@ -6,3 +6,6 @@ Inital Player Mech 9/27/18
 	-Player jump
 	-Player on ground detection
 	
+Android Integration 10/2/18
+	-Integrated android building in unity
+	-Set default display to Landscape with auto rotation between landscape modes only.
